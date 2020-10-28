@@ -6,7 +6,7 @@ In this project we are going to use COVID19 dataset we have consisting of data-r
 
 
 ![alt text][logo]
-[logo]: "https://github.com/yifanlintw/Data-Project/blob/main/images/Infection%20and%20deaths%20rate%20in%20Australia.png"
+[logo]:https://github.com/yifanlintw/Data-Project/blob/main/images/Infection%20and%20deaths%20rate%20in%20Australia.png
 ![](/images/Infection%20and%20deaths%20rate%20in%20Australia.png)
 
 ## Project 2 : [Explortory Data Anlaysis](https://yifanlintw.github.io/Data-Project/)
