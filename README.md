@@ -1,4 +1,4 @@
-# [Yvonne_Portfolio](https://yifanlintw.github.io/Data-Project/)
+# [Yvonne_Portfolio](https://yifanlintw.github.io/Data_Portfolio/)
 Example data science portfolio
 
 ## Project 1: [COVID19 Data Analysis Using Python](https://github.com/yifanlintw/Data_Portfolio/blob/main/COVID19%20Data%20Analysis%20Using%20Python-%20Aus%20.html)
@@ -13,5 +13,5 @@ We are going to use Plotly module, which is a great visualization tool in python
 
 ![](/images/Infection%20and%20deaths%20rate%20in%20Australia.png)
 
-## Project 2 : [Explortory Data Anlaysis](https://yifanlintw.github.io/Data-Project/)
+## Project 2 : [Exploratory Data Analysis (EDA)](https://yifanlintw.github.io/Data-Project/)
 
