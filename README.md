@@ -13,5 +13,5 @@ We are going to use Plotly module, which is a great visualization tool in python
 
 ![](/images/Infection%20and%20deaths%20rate%20in%20Australia.png)
 
-## Project 2 : [Exploratory Data Analysis (EDA)](https://yifanlintw.github.io/Data-Project/)
+## Project 2 : [Exploratory Data Analysis (EDA)](https://yifanlintw.github.io/Data_Portfolio/)
 
