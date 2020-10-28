@@ -1,4 +1,4 @@
-# Data_Project
+# Yvonne_Portfolio
 Example data science portfolio
 
 ## Project 1: [COVID19 Data Analysis Using Python](https://yifanlintw.github.io/Data-Project/)
