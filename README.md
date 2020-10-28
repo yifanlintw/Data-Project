@@ -9,7 +9,7 @@ In this project, we are going to use COVID19 dataset we have consisting of data-
 
 We are going to use Plotly module, which is a great visualization tool in python, in order to plot some insightful and intuitive graphs to answer the questions.
 
-![](https://github.com/yifanlintw/Data-Project/blob/main/images/Infection%20and%20deaths%20rate%20in%20Australia.png)
+![](/images/Infection%20and%20deaths%20rate%20in%20Australia.png)
 
 ![](https://github.com/yifanlintw/Data-Project/blob/main/images/Infection%20rate%20in%20Australia.png)
 
