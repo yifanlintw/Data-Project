@@ -1,7 +1,7 @@
 # [Yvonne_Portfolio](https://yifanlintw.github.io/Data_Portfolio/)
 Example data science portfolio
 
-## Project 1: [COVID19 Data Analysis Using Python](https://github.com/yifanlintw/Data_Portfolio/blob/main/COVID19%20Data%20Analysis%20Using%20Python-%20Aus%20.html)
+## Project 1: [COVID19 Data Analysis Using Python](https://github.com/yifanlintw/Data_Portfolio/blob/main/COVID19%20Data%20Analysis%20Using%20Python.ipynb.json)
 In this project, we are going to use COVID19 dataset we have consisting of data-related cumulative number of confirmed, recovered, and deaths cases. we are going to prepare this dataset to answer these questions: 
 1. How does Global Spread of the virus look like? 
 2. How intensive the spread of the virus has been in the countries?
